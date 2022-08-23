@@ -40,7 +40,7 @@ Instead of looking at each city individualy we can look at the types of cities a
 
 1. Make ajustments to the fare rates based on how many riders are in the city at a certian time 
 2.Have drivers work in there city type to deturmine rates and if they switch cities re-assin city type based off geomap. 
-3. Char
+
 
 
 
